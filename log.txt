@@ -1,0 +1,66 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-03dd7a8e-0645-426a-a9dd-099b9c21cc02
+Extension host agent listening on /tmp/code-03dd7a8e-0645-426a-a9dd-099b9c21cc02
+
+[17:12:08] 
+
+
+
+
+[17:12:08] Installing extensions...
+[17:12:08] Extension host agent started.
+[17:12:08] Started initializing default profile extensions in extensions installation folder. file:///home/poldersen2/.vscode-server/extensions
+[17:12:08] Completed initializing default profile extensions in extensions installation folder. file:///home/poldersen2/.vscode-server/extensions
+[17:12:08] [<unknown>][a2476c16][ManagementConnection] New connection established.
+[17:12:08] [<unknown>][27a6b2bc][ExtensionHostConnection] New connection established.
+[17:12:08] [<unknown>][27a6b2bc][ExtensionHostConnection] <3963456> Launched Extension Host Process.
+[17:12:08] Installing extension 'gitpod.gitpod-remote-ssh'...
+[17:12:08] Getting Manifest... gitpod.gitpod-remote-ssh
+[17:12:08] Installing extension: gitpod.gitpod-remote-ssh {
+  isMachineScoped: false,
+  installPreReleaseVersion: false,
+  isApplicationScoped: true,
+  isBuiltin: false,
+  installGivenVersion: false,
+  installOnlyNewlyAddedFromExtensionPack: true,
+  profileLocation: b {
+    scheme: 'file',
+    authority: '',
+    path: '/home/poldersen2/.vscode-server/extensions/extensions.json',
+    query: '',
+    fragment: '',
+    _formatted: 'file:///home/poldersen2/.vscode-server/extensions/extensions.json',
+    _fsPath: '/home/poldersen2/.vscode-server/extensions/extensions.json'
+  },
+  productVersion: { version: '1.91.1', date: '2024-07-09T22:08:48.553Z' }
+}
+[17:12:09] Extension signature verification result for gitpod.gitpod-remote-ssh: Success. Executed: true. Duration: 423ms.
+[17:12:09] Extracted extension to file:///home/poldersen2/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.51: gitpod.gitpod-remote-ssh
+[17:12:09] Renamed to /home/poldersen2/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.51
+[17:12:09] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+[17:12:09] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+[17:12:09] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+[17:12:09] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+[17:12:09] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+[17:12:09] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+[17:12:09] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+[17:12:09] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+[17:12:09] Extension installed successfully: gitpod.gitpod-remote-ssh file:///home/poldersen2/.vscode-server/extensions/extensions.json
+[17:12:09] Extension 'gitpod.gitpod-remote-ssh' v0.0.51 was successfully installed.
+[17:12:34] [<unknown>][a2476c16][ManagementConnection] The client has reconnected.
+[17:13:00] [<unknown>][a2476c16][ManagementConnection] The client has reconnected.
+[17:13:26] [<unknown>][a2476c16][ManagementConnection] The client has reconnected.
+[17:13:52] [<unknown>][a2476c16][ManagementConnection] The client has reconnected.
+[17:14:17] [<unknown>][a2476c16][ManagementConnection] The client has reconnected.
+[17:14:43] [<unknown>][a2476c16][ManagementConnection] The client has reconnected.
+[17:15:09] [<unknown>][a2476c16][ManagementConnection] The client has reconnected.
+[17:15:36] [<unknown>][a2476c16][ManagementConnection] The client has reconnected.
+[17:16:24] [<unknown>][a2476c16][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+New EH opened, aborting shutdown
+[17:17:08] New EH opened, aborting shutdown
